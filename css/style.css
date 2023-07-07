@@ -138,6 +138,15 @@ img {
   border-radius:10px;
 }
 
+#myDIV2 {
+  height:165px;
+  padding:10px;
+  background-color:#ebeaea;
+  text-align: center;
+
+}
+
+
 /*Style the aside content */
 aside {
   width: 30%;
@@ -216,7 +225,7 @@ font-size:14px;
 .table_bullet{
   font-family: 'helvetica neue',helvetica,arial,'lucida grande',sans-serif;
   border-collapse: collapse;
-  width: 40%;
+  margin: 5px;
 }
 
 .table_bullet > td{
@@ -224,6 +233,8 @@ font-size:14px;
   font-size: 12px;
   text-align: left;
   color: #000000;
+  margin-right: 10px;
+  width: 100%;
 }
 
 .table_bullet >  tr{
@@ -242,7 +253,8 @@ font-size:14px;
 .table_bullet_a{
   color: #878686;
   text-align: left;
-  font-size: 10px;
+  font-size: 12px;
+
 }
 
 /*Circle Bullet*/
